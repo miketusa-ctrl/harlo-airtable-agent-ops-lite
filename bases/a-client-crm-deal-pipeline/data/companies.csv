@@ -1,0 +1,11 @@
+Company Name,Domain,Industry,Company Size,Status,Tier,Owner,ARR (estimate),Health,Tags,Notes
+Northwind Analytics,https://northwind.example,SaaS,51-200,Prospect,Mid-Market,Ava Chen,,Unknown,"Inbound, Strategic",Evaluating Pro for ops team
+Bright Harbor Studio,https://brightharbor.example,Agency,11-50,Prospect,SMB,Marcus Reed,,Yellow,Outbound,Design agency; seasonal budget
+Cedar & Pine Retail,https://cedarpine.example,E-commerce,201-1000,Customer,Mid-Market,Jordan Blake,48000,Green,"Expansion, Inbound",Customer since 2025; expansion interest
+Lumen Health Co,https://lumenhealth.example,Healthcare,51-200,Prospect,Mid-Market,Ava Chen,,Unknown,Partner-sourced,Needs BAA discussion before pilot
+Orbit Payments,https://orbitpay.example,Fintech,201-1000,Prospect,Enterprise,Ava Chen,,Yellow,"Outbound, Strategic",Security review in progress
+Maple Desk Co,https://mapledesk.example,Other,1-10,Disqualified,SMB,Priya Nair,,Unknown,Inbound,Too early; revisit in 2027
+Harborline Media,https://harborline.example,Agency,11-50,Customer,SMB,Jordan Blake,12000,Green,Inbound,Happy on Pro
+Quilted SaaS,https://quilted.example,SaaS,11-50,Prospect,SMB,Marcus Reed,,Unknown,Event,Met at fictional OpsConf
+Silverthread Labs,https://silverthread.example,SaaS,51-200,Churned,Mid-Market,Jordan Blake,,Red,Expansion,Churned Q2; win-back candidate
+Blue Canyon Kits,https://bluecanyon.example,E-commerce,51-200,Partner,Mid-Market,Sam Ortiz,,Green,Partner-sourced,Referral partner only — no active deal

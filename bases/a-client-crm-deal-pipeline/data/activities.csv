@@ -1,0 +1,13 @@
+Subject,Type,Status,Date,Owner,Contact,Company,Deal,Outcome,Follow-up Needed,Follow-up Due
+Northwind ROI review call,Call,Done,2026-10-28,Ava Chen,Elena Vasquez,Northwind Analytics,Northwind — Pro annual,Walked through estimate savings; asked for seat count,TRUE,2026-11-08
+Northwind champion sync,Email,Done,2026-10-30,Ava Chen,Tom Okonkwo,Northwind Analytics,Northwind — Pro annual,Tom confirmed 18 seats estimate,FALSE,
+Bright Harbor intro,Call,Done,2026-10-15,Marcus Reed,Maya Singh,Bright Harbor Studio,Bright Harbor — Lite trial convert,Interested in Lite; worried about time to value,TRUE,2026-11-10
+Cedar expansion legal,Meeting,Done,2026-10-28,Ava Chen,Riley Cho,Cedar & Pine Retail,Cedar & Pine — Agency expansion,CFO ok with estimate if MSA shortened,TRUE,2026-11-07
+Orbit security kickoff,Meeting,Done,2026-10-25,Ava Chen,Nate Morales,Orbit Payments,Orbit — Agency + Services,Shared questionnaire; CISO join next,TRUE,2026-11-06
+Orbit CISO Q&A,Call,Planned,2026-11-06,Ava Chen,Ivy Park,Orbit Payments,Orbit — Agency + Services,,TRUE,2026-11-06
+Quilted case study send,Email,Planned,2026-11-09,Marcus Reed,Kenji Watanabe,Quilted SaaS,Quilted — Pro,,TRUE,2026-11-09
+Harborline seat confirm,Task,Planned,2026-11-07,Jordan Blake,Sofia Alvarez,Harborline Media,Harborline — Add-on pack,,TRUE,2026-11-07
+Lumen BAA check-in,Email,Planned,2026-11-15,Ava Chen,Dr. Hannah Cho,Lumen Health Co,Lumen Health — Pro pilot,,TRUE,2026-11-15
+Cedar CX weekly,Note,Done,2026-11-01,Jordan Blake,Chris Patel,Cedar & Pine Retail,Cedar & Pine — Agency expansion,Health Green; expansion still on track,FALSE,
+Stale Bright Harbor nudge,Task,Planned,2026-11-05,Marcus Reed,Maya Singh,Bright Harbor Studio,Bright Harbor — Lite trial convert,,TRUE,2026-11-05
+Northwind services scope,Meeting,Planned,2026-11-12,Ava Chen,Tom Okonkwo,Northwind Analytics,Northwind — Services kickoff,,TRUE,2026-11-12

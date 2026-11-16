@@ -1,0 +1,13 @@
+Full Name,Email,Title,Phone,Company,Owner,Role Type,Lifecycle,LinkedIn URL,Last Touched,Do Not Contact,Data Quality,Notes
+Elena Vasquez,elena.vasquez@northwind.example,VP Operations,555-0101,Northwind Analytics,Ava Chen,Economic Buyer,Opportunity,https://linkedin.example/in/elena-vasquez,2026-10-28,FALSE,Complete,Wants ROI model
+Tom Okonkwo,tom.okonkwo@northwind.example,Ops Lead,555-0102,Northwind Analytics,Ava Chen,Champion,Opportunity,,2026-10-30,FALSE,Complete,Day-to-day evaluation owner
+Maya Singh,maya.singh@brightharbor.example,Founder,555-0201,Bright Harbor Studio,Marcus Reed,Economic Buyer,SQL,,2026-10-15,FALSE,Complete,Budget nervous
+Chris Patel,chris.patel@cedarpine.example,Head of CX,555-0301,Cedar & Pine Retail,Jordan Blake,Champion,Customer,,2026-11-01,FALSE,Complete,Expansion champion
+Riley Cho,riley.cho@cedarpine.example,CFO,555-0302,Cedar & Pine Retail,Ava Chen,Economic Buyer,Customer,,2026-10-20,FALSE,Complete,Signs off on ACV > 10k estimate
+Dr. Hannah Cho,hannah.cho@lumenhealth.example,COO,555-0401,Lumen Health Co,Ava Chen,Economic Buyer,MQL,,2026-09-12,FALSE,Needs enrichment,Prefer email only
+Nate Morales,nate.morales@orbitpay.example,Director of Revenue Ops,555-0501,Orbit Payments,Ava Chen,Champion,Opportunity,,2026-10-25,FALSE,Complete,Running security questionnaire
+Ivy Park,ivy.park@orbitpay.example,CISO,555-0502,Orbit Payments,Ava Chen,Blocker,Opportunity,,2026-10-26,FALSE,Complete,Needs SOC2 packet
+Gabe Romano,gabe.romano@mapledesk.example,Owner,555-0601,Maple Desk Co,Priya Nair,Economic Buyer,Lead,,2026-08-01,FALSE,Needs company,Sole prop; low urgency
+Sofia Alvarez,sofia.alvarez@harborline.example,Account Director,555-0701,Harborline Media,Jordan Blake,User,Customer,,2026-10-18,FALSE,Complete,
+Kenji Watanabe,kenji.watanabe@quilted.example,CEO,555-0801,Quilted SaaS,Marcus Reed,Economic Buyer,SQL,,2026-10-05,FALSE,Complete,Met at OpsConf booth
+Amelia Frost,amelia.frost@silverthread.example,VP Product,555-0901,Silverthread Labs,Jordan Blake,Champion,Churned,,2026-06-01,TRUE,Complete,Do not contact until win-back campaign
