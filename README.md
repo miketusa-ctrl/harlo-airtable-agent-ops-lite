@@ -12,6 +12,8 @@ A free, ready-to-build Airtable base for a **Client CRM + Deal Pipeline**, with 
 
 Start with `SETUP.md` or `SETUP.pdf`.
 
+**Fastest path:** copy the ready-made CRM base with this [public copy link](https://airtable.com/appCvUjzr9xUi9SHA/shrI1nA77QgX6a1hd) (read-only; copying allowed). Named views come pre-built. Automations are not included in the copy — turn them on per `bases/a-client-crm-deal-pipeline/AUTOMATIONS.md`. The manual CSV path is in `SETUP.md`.
+
 ## Want all three bases?
 
 - <a href="https://payhip.com/b/iepDd" target="_blank" rel="noopener">Harlo Agent-Ops Bases Pro</a> adds the Content Calendar + Asset Tracker and the Agency Project & Time Tracker, each with its agent recipes.

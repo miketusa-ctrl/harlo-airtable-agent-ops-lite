@@ -10,6 +10,25 @@ All sample dollars are **estimates**. Sample people and companies are fictional.
 
 ---
 
+## Fastest path: copy the ready-made base
+
+The quickest way to start is to copy the ready-made base into your own workspace. It already includes the tables, fields, formulas, fictional seed records, and the named views listed below. Automations are not included in the copy; turn them on after you copy, following `AUTOMATIONS.md`.
+
+1. Open the public copy link: https://airtable.com/appCvUjzr9xUi9SHA/shrI1nA77QgX6a1hd  
+2. Use Airtable's copy-base option.  
+3. Pick your workspace.
+
+Pre-built views (the default Grid views are also kept):
+
+- Deals: Pipeline Kanban, Closing this month, Stale deals, Won, Lost  
+- Activities: Today, Overdue, Open follow-ups  
+- Contacts: Needs hygiene, Decision makers  
+- Companies: Prospects, Customers, Unassigned
+
+If you prefer to build the base yourself, follow the manual CSV path below.
+
+---
+
 ## Before you start
 
 - An Airtable workspace where you can create a new base  
